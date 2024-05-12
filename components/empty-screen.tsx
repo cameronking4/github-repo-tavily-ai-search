@@ -7,12 +7,13 @@ const exampleMessages = [
     message: "Next.js tailwindcss dashboard with shadcn components"
   },
   {
-    heading: 'Langchain OpenAI API Assistant with Tools',
-    message: 'Langchain OpenAI API Assistant with Tools',
+    heading: 'Langchain openai node express endpoint',
+    message: 'Langchain openai node express endpoint
+',
   },
   {
-    heading: 'The new Vercel AI SDK & Generative UI',
-    message: 'The new Vercel AI SDK & Generative UI'
+    heading: 'The new vercel ai sdk & generative ui',
+    message: 'The new vercel ai sdk & generative ui'
   },
   {
     heading: 'LLM benchmarking in python',
