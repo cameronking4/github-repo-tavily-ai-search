@@ -1,6 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
-import { SiDiscord, SiGithub, SiTwitter } from 'react-icons/si'
+import { SiLinkedin, SiGithub, SiTwitter } from 'react-icons/si'
 import { Button } from './ui/button'
 
 const Footer: React.FC = () => {
@@ -12,8 +12,8 @@ const Footer: React.FC = () => {
           size={'icon'}
           className="text-muted-foreground/50"
         >
-          <Link href="https://discord.gg/zRxaseCuGq" target="_blank">
-            <SiDiscord size={18} />
+          <Link href="https://linkedin.com/in/cameronyking" target="_blank">
+            <SiLinkedin size={18} />
           </Link>
         </Button>
         <Button
@@ -21,16 +21,7 @@ const Footer: React.FC = () => {
           size={'icon'}
           className="text-muted-foreground/50"
         >
-          <Link href="https://twitter.com/miiura" target="_blank">
-            <SiTwitter size={18} />
-          </Link>
-        </Button>
-        <Button
-          variant={'ghost'}
-          size={'icon'}
-          className="text-muted-foreground/50"
-        >
-          <Link href="https://git.new/morphic" target="_blank">
+          <Link href="https://github.com/cameronking4/github-repo-tavily-ai-search/tree/main" target="_blank">
             <SiGithub size={18} />
           </Link>
         </Button>
