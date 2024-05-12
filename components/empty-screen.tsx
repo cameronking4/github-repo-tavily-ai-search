@@ -3,13 +3,12 @@ import { ArrowRight } from 'lucide-react'
 
 const exampleMessages = [
   {
-    heading: "Next.js tailwindcss dashboard with shadcn components",
-    message: "Next.js tailwindcss dashboard with shadcn components"
+    heading: 'Next.js tailwindcss dashboard with shadcn components',
+    message: 'Next.js tailwindcss dashboard with shadcn components'
   },
   {
     heading: 'Langchain openai node express endpoint',
-    message: 'Langchain openai node express endpoint
-',
+    message: 'Langchain openai node express endpoint'
   },
   {
     heading: 'The new vercel ai sdk & generative ui',
