@@ -3,7 +3,7 @@
 
 ![screenrun-05-11-2024-20-38-17](https://github.com/cameronking4/github-repo-tavily-ai-search/assets/35708477/7d553860-bce0-4864-b648-6eeddf6f9f82)
 
-Here lives the code for an AI-powered search engine to find the best github repo to start your project. Use Tavily AI API to retrieve, score and analyze search results from Github. Find the perfect starter template simply by searching "Next.js shadcn dashboa 
+Here lives the code for an AI-powered search engine to find the best github repo to start your project. Use Tavily AI API to retrieve, score and analyze search results from Github. Find the perfect starter template simply by searching "Next.js shadcn dashboard". Results are rendered beautifully with Vercel AI SDK Generative UI.
 
 ## 🧱 Stack (Adapted from Next.js Morphic template)
 
