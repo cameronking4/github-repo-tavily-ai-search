@@ -1,4 +1,4 @@
-# Open Source Project Finder 
+# AI site search - Open Source Project Finder (InstaRepo) 
 ### Tavily AI-search for Github repositories
 
 ![screenrun-05-11-2024-20-38-17](https://github.com/cameronking4/github-repo-tavily-ai-search/assets/35708477/7d553860-bce0-4864-b648-6eeddf6f9f82)
